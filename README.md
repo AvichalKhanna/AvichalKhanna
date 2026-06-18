@@ -1,12 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000008,30:04042e,60:0a0a4a,100:1a0a6e&height=220&section=header&text=AVICHAL%20KHANNA&fontSize=52&fontColor=e0d7ff&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Builder%20of%20Things%20That%20Should%20Not%20Exist%20Yet&descAlignY=65&descSize=15&descColor=9d8fff)
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=9D8FFF&center=true&vCenter=true&width=500&lines=LLM+Inference+%7C+RLHF+%7C+MoE+Transformers;4.2x+throughput+%7C+73%25+harmful+output+reduction;Building+JARVIS+from+scratch;B.Tech+Data+Science+%40+MUJ+%E2%80%A2+CGPA+9.89;Open+to+ML%2FAI+Internships)](https://github.com/AvichalKhanna)
+# Avichal Khanna
+
+*AI / ML Engineer · Building things that shouldn't exist yet*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=9D8FFF&center=true&vCenter=true&width=480&lines=LLM+Inference+%7C+RLHF+%7C+MoE+Transformers;4.2x+throughput+%7C+73%25+harmful+output+reduction;Building+JARVIS+from+scratch;B.Tech+Data+Science+%40+MUJ+%E2%80%A2+CGPA+9.89;Open+to+ML%2FAI+Internships)](https://github.com/AvichalKhanna)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/avichalkhanna)&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:avichalkhanna111@gmail.com)&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/AvichalKhanna)&nbsp;![views](https://komarev.com/ghpvc/?username=AvichalKhanna&color=9d8fff&style=flat-square&label=views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin&logoColor=9d8fff)](https://linkedin.com/in/avichalkhanna) · [![Gmail](https://img.shields.io/badge/Gmail-grey?style=flat-square&logo=gmail&logoColor=9d8fff)](mailto:avichalkhanna111@gmail.com) · [![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github&logoColor=9d8fff)](https://github.com/AvichalKhanna) · ![views](https://komarev.com/ghpvc/?username=AvichalKhanna&color=9d8fff&style=flat-square&label=views)
 
 </div>
 
