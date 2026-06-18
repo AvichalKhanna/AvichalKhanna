@@ -1,6 +1,6 @@
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000008,30:04042e,60:0a0a4a,100:1a0a6e&height=220&section=header&text=AVICHAL%20KHANNA&fontSize=52&fontColor=e0d7ff&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Builder%20of%20Things%20That%20Should%20Not%20Exist%20Yet&descAlignY=65&descSize=15&descColor=9d8fff)
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=0:000008,30:050518,60:0a0a2e,100:0d1240&height=200&section=header&text=AVICHAL%20KHANNA&fontSize=48&fontColor=e0d7ff&animation=fadeIn&fontAlignY=55&desc=AI%20/%20ML%20Engineer%20%E2%80%A2%20Builder%20of%20Things%20That%20Should%20Not%20Exist%20Yet&descAlignY=75&descSize=14&descColor=9d8fff)
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=9D8FFF&center=true&vCenter=true&width=620&lines=LLM+Inference+%7C+RLHF+%7C+MoE+Transformers;4.2x+throughput+%7C+73%25+harmful+output+reduction;Building+JARVIS+from+scratch;B.Tech+Data+Science+%40+MUJ+%E2%80%A2+CGPA+9.89;Open+to+ML%2FAI+Internships)](https://github.com/AvichalKhanna)
 
@@ -38,6 +38,24 @@
 
 ## 🚀 Featured Projects
 
+### 🤖 PRism — AI GitHub PR Review Agent
+> `FastAPI` `Groq llama-3.3-70b` `Supabase` `React/Vite` `Render`
+
+Automated pull request reviewer that hooks into GitHub events, runs LLM analysis via Groq, tracks history in Supabase, and surfaces results on a live React dashboard.
+
+[![GitHub](https://img.shields.io/badge/-View%20Code-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/AvichalKhanna/PRism)&nbsp;[![Live Demo](https://img.shields.io/badge/-Live%20Demo-9d8fff?style=flat-square&logo=vercel&logoColor=white)](https://github.com/AvichalKhanna/PRism)
+
+---
+
+### 🎬 YouTube Shorts Automation Pipeline
+> `FFmpeg` `Groq TTS` `Gemini` `FastAPI` `React/Vite`
+
+Records developer portfolio sites → AI script via Gemini → voiceover via Groq TTS → word-by-word subtitle burn via FFmpeg → auto-upload to YouTube. Fully autonomous, zero human touch.
+
+[![GitHub](https://img.shields.io/badge/-View%20Code-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/AvichalKhanna)&nbsp;[![Live Demo](https://img.shields.io/badge/-Live%20Demo-9d8fff?style=flat-square&logo=vercel&logoColor=white)](https://github.com/AvichalKhanna)&nbsp;[![YouTube](https://img.shields.io/badge/-YouTube%20Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@DesignWithKaran)
+
+---
+
 ### ⚡ LLM Inference Optimization Engine
 > `Python` `PyTorch` `CUDA` `Triton` `Docker` `Kubernetes`
 
@@ -70,15 +88,6 @@ End-to-end RLHF on GPT-2: SFT → reward model training → PPO-based policy opt
 
 ---
 
-### 🤖 PRism — AI GitHub PR Review Agent
-> `FastAPI` `Groq llama-3.3-70b` `Supabase` `React/Vite` `Render`
-
-Automated pull request reviewer that hooks into GitHub events, runs LLM analysis via Groq, tracks history in Supabase, and surfaces results on a live React dashboard.
-
-[![GitHub](https://img.shields.io/badge/-View%20Code-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/AvichalKhanna/PRism)&nbsp;[![Live Demo](https://img.shields.io/badge/-Live%20Demo-9d8fff?style=flat-square&logo=vercel&logoColor=white)](https://github.com/AvichalKhanna/PRism)
-
----
-
 ### 🔍 Neural Information Retrieval Engine
 > `PyTorch` `FAISS` `Elasticsearch` `FastAPI` `Docker` `AWS`
 
@@ -87,15 +96,6 @@ Hybrid dense-sparse retrieval: BM25 + fine-tuned bi-encoder (BERT) + FAISS over 
 - **sub-50ms p99 latency** via FastAPI
 
 [![GitHub](https://img.shields.io/badge/-View%20Code-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/AvichalKhanna)&nbsp;[![Live Demo](https://img.shields.io/badge/-Live%20Demo-9d8fff?style=flat-square&logo=vercel&logoColor=white)](https://github.com/AvichalKhanna)
-
----
-
-### 🎬 YouTube Shorts Automation Pipeline
-> `FFmpeg` `Groq TTS` `Gemini` `FastAPI` `React/Vite`
-
-Records developer portfolio sites → AI script via Gemini → voiceover via Groq TTS → word-by-word subtitle burn via FFmpeg → auto-upload to YouTube. Fully autonomous, zero human touch.
-
-[![GitHub](https://img.shields.io/badge/-View%20Code-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/AvichalKhanna)&nbsp;[![Live Demo](https://img.shields.io/badge/-Live%20Demo-9d8fff?style=flat-square&logo=vercel&logoColor=white)](https://github.com/AvichalKhanna)&nbsp;[![YouTube](https://img.shields.io/badge/-YouTube%20Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@DesignWithKaran)
 
 ---
 
@@ -165,8 +165,4 @@ Privacy-first AI therapy assistant with voice I/O, empathetic conversation, and 
 
 ---
 
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=shark&color=0:0d1240,40:0a0a2e,70:050518,100:000008&height=140&section=footer&reversal=true&desc=Building%20the%20Future%2C%20One%20Model%20at%20a%20Time&descAlign=50&descAlignY=60&descSize=13&descColor=9d8fff)
-
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a0a6e,40:0a0a4a,70:04042e,100:000008&height=160&section=footer&text=Building%20the%20Future%2C%20One%20Model%20at%20a%20Time&fontSize=16&fontColor=9d8fff&fontAlignY=45&desc=avichalkhanna111%40gmail.com%20%E2%80%A2%20github.com%2FAvichalKhanna&descSize=12&descColor=6a6aaa&descAlignY=68)
