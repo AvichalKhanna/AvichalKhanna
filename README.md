@@ -42,7 +42,7 @@
 
 Automated pull request reviewer that hooks into GitHub events, runs LLM analysis via Groq, tracks history in Supabase, and surfaces results on a live React dashboard.
 
-[![GitHub](https://img.shields.io/badge/-View%20Code-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/AvichalKhanna/PRism)&nbsp;[![Live Demo](https://img.shields.io/badge/-Live%20Demo-9d8fff?style=flat-square&logo=vercel&logoColor=white)](https://github.com/AvichalKhanna/PRism)
+[![GitHub](https://img.shields.io/badge/-View%20Code-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/AvichalKhanna/PRism)&nbsp;[![Live Demo](https://img.shields.io/badge/-Live%20Demo-9d8fff?style=flat-square&logo=vercel&logoColor=white)](https://p-rism-frontend.vercel.app/)
 
 ---
 
@@ -51,7 +51,7 @@ Automated pull request reviewer that hooks into GitHub events, runs LLM analysis
 
 Records developer portfolio sites → AI script via Gemini → voiceover via Groq TTS → word-by-word subtitle burn via FFmpeg → auto-upload to YouTube. Fully autonomous, zero human touch.
 
-[![GitHub](https://img.shields.io/badge/-View%20Code-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/AvichalKhanna)&nbsp;[![Live Demo](https://img.shields.io/badge/-Live%20Demo-9d8fff?style=flat-square&logo=vercel&logoColor=white)](https://github.com/AvichalKhanna)&nbsp;[![YouTube](https://img.shields.io/badge/-YouTube%20Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@DesignWithKaran)
+[![GitHub](https://img.shields.io/badge/-View%20Code-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/AvichalKhanna)&nbsp;[![Live Demo](https://img.shields.io/badge/-Live%20Demo-9d8fff?style=flat-square&logo=vercel&logoColor=white)]([https://github.com/AvichalKhanna](https://github.com/AvichalKhanna/Shorts))&nbsp;[![YouTube](https://img.shields.io/badge/-YouTube%20Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](www.youtube.com/@design-with-karan)
 
 ---
 
@@ -62,7 +62,7 @@ Serving system for LLaMA-2-7B with continuous batching, KV-cache management, and
 - **4.2x throughput improvement** vs naive serving
 - **60% memory reduction** · Benchmarked against vLLM baseline
 
-[![GitHub](https://img.shields.io/badge/-View%20Code-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/AvichalKhanna)&nbsp;[![Benchmark](https://img.shields.io/badge/-View%20Benchmark-9d8fff?style=flat-square&logo=vercel&logoColor=white)](https://github.com/AvichalKhanna)
+[![GitHub](https://img.shields.io/badge/-View%20Code-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/AvichalKhanna/LLM-IOE)&nbsp;
 
 ---
 
@@ -73,17 +73,7 @@ Implemented Sparse Mixture-of-Experts from scratch on WikiText-103 with 8-expert
 - **2.4x throughput** over dense baseline at equivalent perplexity
 - Optimized load balancing loss to prevent expert collapse
 
-[![GitHub](https://img.shields.io/badge/-View%20Code-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/AvichalKhanna)&nbsp;[![Live Demo](https://img.shields.io/badge/-Live%20Demo-9d8fff?style=flat-square&logo=vercel&logoColor=white)](https://github.com/AvichalKhanna)
-
----
-
-### 🎯 RLHF Fine-tuning Pipeline
-> `PyTorch` `TRL` `HuggingFace` `Weights & Biases`
-
-End-to-end RLHF on GPT-2: SFT → reward model training → PPO-based policy optimization.
-- **73% reduction in harmful outputs** on custom safety benchmark vs base model
-
-[![GitHub](https://img.shields.io/badge/-View%20Code-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/AvichalKhanna)&nbsp;[![Live Demo](https://img.shields.io/badge/-View%20Results-9d8fff?style=flat-square&logo=vercel&logoColor=white)](https://github.com/AvichalKhanna)
+[![GitHub](https://img.shields.io/badge/-View%20Code-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/AvichalKhanna/Sparse-MOE)&nbsp;
 
 ---
 
@@ -94,7 +84,7 @@ Hybrid dense-sparse retrieval: BM25 + fine-tuned bi-encoder (BERT) + FAISS over 
 - **MRR@10 of 0.38** — 31% over BM25 baseline
 - **sub-50ms p99 latency** via FastAPI
 
-[![GitHub](https://img.shields.io/badge/-View%20Code-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/AvichalKhanna)&nbsp;[![Live Demo](https://img.shields.io/badge/-Live%20Demo-9d8fff?style=flat-square&logo=vercel&logoColor=white)](https://github.com/AvichalKhanna)
+[![GitHub](https://img.shields.io/badge/-View%20Code-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/AvichalKhanna/BERT-BM25-RRF)&nbsp;
 
 ---
 
@@ -103,18 +93,10 @@ Hybrid dense-sparse retrieval: BM25 + fine-tuned bi-encoder (BERT) + FAISS over 
 
 Crop disease detection + E-Tehsil services + 30-day weather, yield, and navigation forecasting for India's agricultural sector.
 
-[![GitHub](https://img.shields.io/badge/-View%20Code-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/AvichalKhanna)&nbsp;[![Live Demo](https://img.shields.io/badge/-Live%20Demo-9d8fff?style=flat-square&logo=vercel&logoColor=white)](https://github.com/AvichalKhanna)
+[![GitHub](https://img.shields.io/badge/-View%20Code-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/AvichalKhanna/krishimitra)&nbsp;
 
 ---
 
-### 🧘 Saarthi — AI Therapy Assistant
-> `PyTorch` `Opacus` `gRPC` `Docker` `Python`
-
-Privacy-first AI therapy assistant with voice I/O, empathetic conversation, and appointment booking with human therapists via function calling.
-
-[![GitHub](https://img.shields.io/badge/-View%20Code-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/AvichalKhanna)&nbsp;[![Live Demo](https://img.shields.io/badge/-Live%20Demo-9d8fff?style=flat-square&logo=vercel&logoColor=white)](https://github.com/AvichalKhanna)
-
----
 
 ## 🛠 Tech Stack
 
