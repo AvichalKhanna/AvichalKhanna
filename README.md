@@ -6,11 +6,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=9D8FFF&center=true&vCenter=true&width=480&lines=LLM+Inference+%7C+RLHF+%7C+MoE+Transformers;4.2x+throughput+%7C+73%25+harmful+output+reduction;Building+JARVIS+from+scratch;B.Tech+Data+Science+%40+MUJ+%E2%80%A2+CGPA+9.89;Open+to+ML%2FAI+Internships)](https://github.com/AvichalKhanna)
 
-[![Resume](https://img.shields.io/badge/Resume-Download-9d8fff?style=flat-square&logo=googledrive&logoColor=white)](https://github.com/AvichalKhanna/AvichalKhanna/raw/main/Avichal_Khanna_Resume.pdf)
-
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin&logoColor=9d8fff)](www.linkedin.com/in/avichal-khanna-92b5b1278) · [![Gmail](https://img.shields.io/badge/Gmail-grey?style=flat-square&logo=gmail&logoColor=9d8fff)](mailto:avichalkhanna111@gmail.com) · [![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github&logoColor=9d8fff)](https://github.com/AvichalKhanna) · ![views](https://komarev.com/ghpvc/?username=AvichalKhanna&color=9d8fff&style=flat-square&label=views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin&logoColor=9d8fff)](www.linkedin.com/in/avichal-khanna-92b5b1278) · [![Gmail](https://img.shields.io/badge/Gmail-grey?style=flat-square&logo=gmail&logoColor=9d8fff)](mailto:avichalkhanna111@gmail.com) · [![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github&logoColor=9d8fff)](https://github.com/AvichalKhanna) · [![Resume](https://img.shields.io/badge/Resume-Download-9d8fff?style=flat-square&logo=googledrive&logoColor=white)](https://github.com/AvichalKhanna/AvichalKhanna/raw/main/Avichal_Khanna_Resume.pdf)
+ · ![views](https://komarev.com/ghpvc/?username=AvichalKhanna&color=9d8fff&style=flat-square&label=views)
 
 </div>
 
