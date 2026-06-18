@@ -8,7 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin&logoColor=9d8fff)](www.linkedin.com/in/avichal-khanna-92b5b1278) · [![Gmail](https://img.shields.io/badge/Gmail-grey?style=flat-square&logo=gmail&logoColor=9d8fff)](mailto:avichalkhanna111@gmail.com) · [![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github&logoColor=9d8fff)](https://github.com/AvichalKhanna) · [![Resume](https://img.shields.io/badge/Resume-Download-9d8fff?style=flat-square&logo=googledrive&logoColor=white)](https://github.com/AvichalKhanna/AvichalKhanna/raw/main/Avichal_Khanna_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin&logoColor=9d8fff)](www.linkedin.com/in/avichal-khanna-92b5b1278) · [![Gmail](https://img.shields.io/badge/Gmail-grey?style=flat-square&logo=gmail&logoColor=9d8fff)](mailto:avichalkhanna111@gmail.com) · [![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github&logoColor=9d8fff)](https://github.com/AvichalKhanna) · [![Resume](https://img.shields.io/badge/Resume-9d8fff?style=flat-square&logo=googledrive&logoColor=white)](https://github.com/AvichalKhanna/AvichalKhanna/raw/main/Avichal_Khanna_Resume.pdf)
  · ![views](https://komarev.com/ghpvc/?username=AvichalKhanna&color=9d8fff&style=flat-square&label=views)
 
 </div>
