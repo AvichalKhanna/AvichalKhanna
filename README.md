@@ -51,7 +51,7 @@ Automated pull request reviewer that hooks into GitHub events, runs LLM analysis
 
 Records developer portfolio sites → AI script via Gemini → voiceover via Groq TTS → word-by-word subtitle burn via FFmpeg → auto-upload to YouTube. Fully autonomous, zero human touch.
 
-[![GitHub](https://img.shields.io/badge/-View%20Code-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/AvichalKhanna)&nbsp;[![Live Demo](https://img.shields.io/badge/-Live%20Demo-9d8fff?style=flat-square&logo=vercel&logoColor=white)]([https://github.com/AvichalKhanna](https://github.com/AvichalKhanna/Shorts))&nbsp;[![YouTube](https://img.shields.io/badge/-YouTube%20Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@design-with-karan)
+[![GitHub](https://img.shields.io/badge/-View%20Code-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/AvichalKhanna)&nbsp;[![YouTube](https://img.shields.io/badge/-YouTube%20Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@design-with-karan)
 
 ---
 
