@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=9D8FFF&center=true&vCenter=true&width=480&lines=LLM+Inference+%7C+RLHF+%7C+MoE+Transformers;4.2x+throughput+%7C+73%25+harmful+output+reduction;Building+JARVIS+from+scratch;B.Tech+Data+Science+%40+MUJ+%E2%80%A2+CGPA+9.89;Open+to+ML%2FAI+Internships)](https://github.com/AvichalKhanna)
 
-[![Resume](https://img.shields.io/badge/Resume-Download-9d8fff?style=flat-square&logo=googledrive&logoColor=white)](https://github.com/AvichalKhanna/AvichalKhanna/raw/main/resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download-9d8fff?style=flat-square&logo=googledrive&logoColor=white)](https://github.com/AvichalKhanna/AvichalKhanna/raw/main/Avichal_Khanna_Resume.pdf)
 
 <br/>
 
