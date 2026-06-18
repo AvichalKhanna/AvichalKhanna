@@ -8,7 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin&logoColor=9d8fff)](https://linkedin.com/in/avichalkhanna) · [![Gmail](https://img.shields.io/badge/Gmail-grey?style=flat-square&logo=gmail&logoColor=9d8fff)](mailto:avichalkhanna111@gmail.com) · [![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github&logoColor=9d8fff)](https://github.com/AvichalKhanna) · ![views](https://komarev.com/ghpvc/?username=AvichalKhanna&color=9d8fff&style=flat-square&label=views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin&logoColor=9d8fff)](www.linkedin.com/in/avichal-khanna-92b5b1278) · [![Gmail](https://img.shields.io/badge/Gmail-grey?style=flat-square&logo=gmail&logoColor=9d8fff)](mailto:avichalkhanna111@gmail.com) · [![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github&logoColor=9d8fff)](https://github.com/AvichalKhanna) · ![views](https://komarev.com/ghpvc/?username=AvichalKhanna&color=9d8fff&style=flat-square&label=views)
 
 </div>
 
@@ -51,7 +51,7 @@ Automated pull request reviewer that hooks into GitHub events, runs LLM analysis
 
 Records developer portfolio sites → AI script via Gemini → voiceover via Groq TTS → word-by-word subtitle burn via FFmpeg → auto-upload to YouTube. Fully autonomous, zero human touch.
 
-[![GitHub](https://img.shields.io/badge/-View%20Code-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/AvichalKhanna)&nbsp;[![Live Demo](https://img.shields.io/badge/-Live%20Demo-9d8fff?style=flat-square&logo=vercel&logoColor=white)]([https://github.com/AvichalKhanna](https://github.com/AvichalKhanna/Shorts))&nbsp;[![YouTube](https://img.shields.io/badge/-YouTube%20Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](www.youtube.com/@design-with-karan)
+[![GitHub](https://img.shields.io/badge/-View%20Code-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/AvichalKhanna)&nbsp;[![Live Demo](https://img.shields.io/badge/-Live%20Demo-9d8fff?style=flat-square&logo=vercel&logoColor=white)]([https://github.com/AvichalKhanna](https://github.com/AvichalKhanna/Shorts))&nbsp;[![YouTube](https://img.shields.io/badge/-YouTube%20Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)]((https://www.youtube.com/@design-with-karan))
 
 ---
 
